@@ -1,0 +1,4 @@
+Build a scraper that takes all the data from a hockey professional's trade history 
+and allows you to see side by side comparisons to the players that have been traded for and how the draft picks were used.
+
+build a simple dashboard that allows you to compare the stats of players that were involved in the same trades in Hockey
